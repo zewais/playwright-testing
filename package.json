@@ -1,0 +1,22 @@
+{
+  "name": "playwright-testing",
+  "version": "1.0.0",
+  "description": "This is the final project presentation for QUAL2000 coures Winter '24",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zewais/playwright-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zewais/playwright-testing/issues"
+  },
+  "homepage": "https://github.com/zewais/playwright-testing#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.12.2"
+  }
+}
